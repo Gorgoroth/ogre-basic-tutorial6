@@ -1,0 +1,1 @@
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/CMakeFiles/OgreApp.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/TutorialApplication.cpp
+TutorialApplication.h
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/TutorialApplication.h
+windows.h
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/windows.h
+
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/TutorialApplication.h
+BaseApplication.h
+/home/vk/Games/ogre3d/ogre-basic-tutorial6/BaseApplication.h
+
